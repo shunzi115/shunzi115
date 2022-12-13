@@ -9,21 +9,10 @@ shunzi115/shunzi115 is a ✨ special ✨ repository because its `README.md` (thi
 You can click the Preview link to take a look at your changes.
 --->
 
-## 关于【重剑无锋】
+## 关于【Shiro】
 
 <img align='right' src="https://github-readme-stats.vercel.app/api?username=tidesec&count_private=true&show_icons=true" width="380">
 
-
-
-## 关于【GayHub】
-
-1. 乙方安全狗，平常比较忙，很多issues也来不及回，见谅。
-
-2. 虽然尽量避免造轮子，但部分代码都有借鉴github上其它优秀项目。
-
-3. 若用本人项目去进行：HW演练/红蓝对抗/APT/黑产/恶意行为/违法行为/割韭菜，等行为，本人概不负责，也与本人无关。
-
-4. 本人已不参与大小HW活动的攻击方了，若溯源到ID：`重剑无锋`与本人无关。
 
 ## Visit Count
 
