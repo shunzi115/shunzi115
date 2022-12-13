@@ -13,12 +13,7 @@ You can click the Preview link to take a look at your changes.
 
 <img align='right' src="https://github-readme-stats.vercel.app/api?username=tidesec&count_private=true&show_icons=true" width="380">
 
-- [Tide安全团队](http://www.tidesec.com/) 创建者&&核心成员
-- Web/工控/免杀 安全爱好者
-- 在偏离攻防实战的路上越走越远
-- 偶尔写写代码，关注自动化漏洞扫描技术
-- 写过的一些文章和工具 [Papers And Tools](https://github.com/TideSec/Papers)
-- 📫 联系我: xyguest@gmail.com
+
 
 ## 关于【GayHub】
 
