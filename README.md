@@ -11,6 +11,6 @@ You can click the Preview link to take a look at your changes.
 
 ## 关于【Shiro】
 
-<img align='right' src="https://github-readme-stats.vercel.app/api?username=tidesec&count_private=true&show_icons=true" width="380">
+<img align='right' src="https://github-readme-stats.vercel.app/api?username=shunzi115&count_private=true&show_icons=true" width="380">
 
 
