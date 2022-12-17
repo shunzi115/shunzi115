@@ -3,7 +3,7 @@
 ## 关于【Shiro】
 - 👋 Hi, I’m @shunzi115
 
-![](https://github-readme-activity-graph.cyclic.app/graph?username=wangrongding&theme=github)
+![](https://github-readme-activity-graph.cyclic.app/graph?username=shunzi115&theme=github)
 
 <!---
 shunzi115/shunzi115 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
